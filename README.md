@@ -12,3 +12,5 @@ Test_2406_public
 | 📊📈 머신러닝 클래스 | 머신러닝을 시작하는 이들을 위한 머신러닝 기본부터 초중급까지의 수업 | [이동](https://github.com/LDJWJ/ML_Basic_Class) |
 | 🤖📈 딥러닝 기본 클래스 | 딥러닝을 시작하는 이들을 위한 딥러닝 기본부터 초중급까지의 수업 | [이동](https://github.com/LDJWJ/DL_Basic) |
 | 🔍📈 여러가지 데이터 셋 분석 | 캐글 데이터 셋, 공공 데이터 셋 등의 기본 데이터 분석 | [이동](https://github.com/LDJWJ/dataAnalysis) |
+
+![강아지](https://th.bing.com/th/id/OIP.ByFBM2P-gnLPLHL6H2QqUwAAAA?rs=1&pid=ImgDetMain)
